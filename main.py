@@ -14,7 +14,7 @@ a = fg('#a005ed')
 b = attr('reset')
 
 #webhook username
-rando=["solar","not solar","Define#0001","not Define"]
+rando=["solar#7777","not solar","Define#0001","not Define"]
 
 #webhook message
 spam="@everyone discord.gg/define"
@@ -46,7 +46,7 @@ def solarhook(webhook):
 
 
 if __name__ == "__main__":
-    os.system('cls & title Ecstacy Webhook Spammer - Define#0001')
+    os.system('cls & title Ecstacy Webhook Spammer - Define#0001/solar#7777')
     logo = """
 ┌─┐┌─┐┌─┐┌┬┐┌─┐┌─┐┬ ┬
 ├┤ │  └─┐ │ ├─┤│  └┬┘
